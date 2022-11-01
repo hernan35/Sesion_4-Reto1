@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Fecha_Nacimiento" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-29T01:48:56" hostname="LAPTOP-5J0S21BK" time="0.028">
+  <properties/>
+  <testcase name="happydayDate()" classname="Fecha_Nacimiento" time="0.028"/>
+  <system-out><![CDATA[Mi Fecha de Nacimiento es: 
+25/06/1984
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
