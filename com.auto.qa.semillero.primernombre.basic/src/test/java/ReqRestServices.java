@@ -57,4 +57,5 @@ public class ReqRestServices {
                .put("https://reqres.in/api/users/7")
                .then().statusCode(HttpStatus.SC_OK);
    }
+   
 }
