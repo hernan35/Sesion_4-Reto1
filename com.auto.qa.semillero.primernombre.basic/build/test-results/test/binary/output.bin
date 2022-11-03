@@ -1,2 +1,90 @@
-Mi Fecha de Nacimiento es: 
-25/06/1984
+Request method:	GET
+0Request URI:	https://reqres.in/api/user?page=2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+%Date: Wed, 02 Nov 2022 19:49:43 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
++Etag: W/"2c3-xEr0SjJUDYJR0qVFNJByQ5ZcdPc"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: REVALIDATED
+þReport-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qc%2B9VPy4rgECWU91NnUDpN30JggfThO9sQqqfGAZcrKKjSLBp7g0V84EMNEek27XB9xVEQdk34hbH9NWEgyic4sU9VciivoUKs%2BHnUZaWNXSZi%2FyjWE%2BjWyK5g%3D%3D"}],"group":"cf-nel","max_age":604800}
+CNEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 763f651f0f002281-MIA
+Content-Encoding: gzip
+
+{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+
+        {
+            "id": 7,
+#            "name": "sand dollar",
+            "year": 2006,
+             "color": "#DECDBE",
+'            "pantone_value": "13-1106"
+        },
+
+        {
+            "id": 8,
+$            "name": "chili pepper",
+            "year": 2007,
+             "color": "#9B1B30",
+'            "pantone_value": "19-1557"
+        },
+
+        {
+            "id": 9,
+!            "name": "blue iris",
+            "year": 2008,
+             "color": "#5A5B9F",
+'            "pantone_value": "18-3943"
+        },
+
+        {
+            "id": 10,
+            "name": "mimosa",
+            "year": 2009,
+             "color": "#F0C05A",
+'            "pantone_value": "14-0848"
+        },
+
+        {
+            "id": 11,
+!            "name": "turquoise",
+            "year": 2010,
+             "color": "#45B5AA",
+'            "pantone_value": "15-5519"
+        },
+
+        {
+            "id": 12,
+#            "name": "honeysuckle",
+            "year": 2011,
+             "color": "#D94F70",
+'            "pantone_value": "18-2120"
+
+        }
+    ],
+    "support": {
+5        "url": "https://reqres.in/#support-heading",
+[        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
